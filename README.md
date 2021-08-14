@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammed-Taysser
 - 🌱 I’m currently learning Django framework
-- 👀 I’m interested in security specially pen testing
+- 👀 I’m interested in cyber security specially pen-testing
 - ⚡ using linux :smiley:
 
 <!---
