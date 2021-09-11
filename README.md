@@ -25,8 +25,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" />
-<img align="left" alt="pycharm" width="26px" src="images/pycharm.svg" />
-<img align="left" alt="firefox" width="26px" src="images/firefox.svg" />
 <img align="left" alt="HTML5" width="26px" src="images/html.png" />
 <img align="left" alt="CSS3" width="26px" src="images/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="images/javascript.png" />
