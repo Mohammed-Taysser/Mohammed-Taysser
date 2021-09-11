@@ -34,6 +34,9 @@
 <img align="left" alt="vue js" width="26px" src="images/vuejs.svg" />
 <img align="left" alt="Python" width="26px" src="images/python.png" />
 <img align="left" alt="Django" width="30px" src="images/django-original.svg" />
+
+<br/>
+
 <img align="left" alt="Heroku" width="26px" src="images/heroku.svg" />
 <img align="left" alt="Postgresql" width="26px" src="images/postgresql.svg" />
 <img align="left" alt="SQL" width="26px" src="images/mysql.png" />
