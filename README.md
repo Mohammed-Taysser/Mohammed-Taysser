@@ -25,15 +25,23 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" />
+<img align="left" alt="pycharm" width="26px" src="images/pycharm.svg" />
+<img align="left" alt="firefox" width="26px" src="images/firefox.svg" />
 <img align="left" alt="HTML5" width="26px" src="images/html.png" />
-<img align="left" alt="Django" width="26px" src="images/django-original.svg" />
 <img align="left" alt="CSS3" width="26px" src="images/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="images/javascript.png" />
+<img align="left" alt="jquery" width="26px" src="images/jquery.svg" />
+<img align="left" alt="jquery" width="26px" src="images/bootstrap.svg" />
+<img align="left" alt="markdown" width="26px" src="images/markdown.svg" />
+<img align="left" alt="vue js" width="26px" src="images/vuejs.svg" />
 <img align="left" alt="Python" width="26px" src="images/python.png" />
+<img align="left" alt="Django" width="30px" src="images/django-original.svg" />
 <img align="left" alt="Heroku" width="26px" src="images/heroku.svg" />
 <img align="left" alt="Postgresql" width="26px" src="images/postgresql.svg" />
 <img align="left" alt="SQL" width="26px" src="images/mysql.png" />
 <img align="left" alt="Git" width="26px" src="images/git.png" />
 <img align="left" alt="GitHub" width="26px" src="images/github.png" />
-<img align="left" alt="HTML5" width="26px" src="images/terminal.png" />
+<img align="left" alt="terminal" width="26px" src="images/terminal.png" />
+<img align="left" alt="linux" width="26px" src="images/linux.svg" />
 
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
