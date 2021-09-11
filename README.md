@@ -35,7 +35,7 @@
 <img align="left" alt="Python" width="26px" src="images/python.png" />
 <img align="left" alt="Django" width="30px" src="images/django-original.svg" />
 
-<br/>
+<br/><br/>
 
 <img align="left" alt="Heroku" width="26px" src="images/heroku.svg" />
 <img align="left" alt="Postgresql" width="26px" src="images/postgresql.svg" />
