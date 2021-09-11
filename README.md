@@ -33,14 +33,14 @@
 <img align="left" alt="markdown" width="26px" src="images/markdown.svg" />
 <img align="left" alt="vue js" width="26px" src="images/vuejs.svg" />
 <img align="left" alt="Python" width="26px" src="images/python.png" />
-<img align="left" alt="Django" width="30px" src="images/django-original.svg" />
+<img align="left" alt="Django" width="40px" src="images/django-original.svg" />
 
 <br/><br/>
 
 <img align="left" alt="Heroku" width="26px" src="images/heroku.svg" />
 <img align="left" alt="Postgresql" width="26px" src="images/postgresql.svg" />
-<img align="left" alt="SQL" width="26px" src="images/mysql.png" />
-<img align="left" alt="Git" width="26px" src="images/git.png" />
+<img align="left" alt="SQL" width="40px" src="images/mysql.png" />
+<img align="left" alt="Git" width="40px" src="images/git.png" />
 <img align="left" alt="GitHub" width="26px" src="images/github.png" />
 <img align="left" alt="terminal" width="26px" src="images/terminal.png" />
 <img align="left" alt="linux" width="26px" src="images/linux.svg" />
