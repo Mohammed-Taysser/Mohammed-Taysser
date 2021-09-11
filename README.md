@@ -20,6 +20,7 @@
 [linkedin]: https://linkedin.com/in/mohammed-taysser
 [portfolio]: https://mohammed-taysser.github.io/portfolio/
 
+<br/>
 
 ### Languages and Tools:
 
