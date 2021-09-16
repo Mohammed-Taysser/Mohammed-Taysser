@@ -35,9 +35,7 @@
 <img align="left" alt="Python" width="26px" src="images/python.png" />
 <img align="left" alt="Django" width="40px" src="images/django-original.svg" />
 
-<br/><br/>
-
-<img align="left" alt="Heroku" width="26px" src="images/heroku.svg" />
+<img alt="Heroku" width="26px" src="images/heroku.svg" />
 <img align="left" alt="Postgresql" width="26px" src="images/postgresql.svg" />
 <img align="left" alt="SQL" width="40px" src="images/mysql.png" />
 <img align="left" alt="Git" width="40px" src="images/git.png" />
