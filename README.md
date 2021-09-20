@@ -31,7 +31,7 @@
 <img align="left" alt="jquery" width="26px" src="images/jquery.svg" />
 <img align="left" alt="jquery" width="26px" src="images/bootstrap.svg" />
 <img align="left" alt="markdown" width="26px" src="images/markdown.svg" />
-<img align="left" alt="vue js" width="26px" src="images/vuejs.svg" />
+<!-- <img align="left" alt="vue js" width="26px" src="images/vuejs.svg" /> -->
 <img align="left" alt="Python" width="26px" src="images/python.png" />
 <img align="left" alt="Django" width="40px" src="images/django-original.svg" />
 
