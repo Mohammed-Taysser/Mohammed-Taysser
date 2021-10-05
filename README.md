@@ -10,9 +10,7 @@
 ### Talk with me, I am kinda awesome
 
 [<img align="left" alt="Mohammed Taysser | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mohammed Taysser | codeoen" width="22px" src="images/codepen.svg" />][codepen]
-
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://code4learn.teachable.com) -->
+[<img align="left" alt="Mohammed Taysser | codeoen" width="30px" src="images/codepen.svg" />][codepen]
 
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="images/twitter.svg" />](https://twitter.com/Muhammedtaysser) -->
 
