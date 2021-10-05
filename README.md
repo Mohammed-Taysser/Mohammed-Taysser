@@ -47,7 +47,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" />
 <img align="left" alt="Git" width="40px" src="images/git.png" />
 <img align="left" alt="GitHub" width="26px" src="images/github.png" />
-<img alt="markdown" width="26px" src="images/markdown.svg" />
+<img align="left" alt="markdown" width="26px" src="images/markdown.svg" />
 <img align="left" alt="npm" width="26px" src="images/npm.svg" />
 <img alt="linux" width="26px" src="images/linux.svg" />
 
