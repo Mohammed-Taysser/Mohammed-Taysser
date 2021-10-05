@@ -35,7 +35,7 @@
 <img align="left" alt="react js" width="26px" src="images/react.svg" />
 <img align="left" alt="sass" width="26px" src="images/sass.svg" />
 <img align="left" alt="gulp js" width="26px" src="images/gulp.svg" />
-<img align="left" alt="jest js" width="26px" src="images/jest.svg" />
+<img alt="jest js" width="26px" src="images/jest.svg" />
 
 <!-- <img align="left" alt="vue js" width="26px" src="images/vuejs.svg" /> -->
 <img align="left" alt="Python" width="26px" src="images/python.png" />
@@ -48,7 +48,7 @@
 <img align="left" alt="Git" width="40px" src="images/git.png" />
 <img align="left" alt="GitHub" width="26px" src="images/github.png" />
 <img alt="markdown" width="26px" src="images/markdown.svg" />
-<img align="left" alt="npm" width="26px" src="images/npm.png" />
+<img align="left" alt="npm" width="26px" src="images/npm.svg" />
 <img alt="linux" width="26px" src="images/linux.svg" />
 
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
