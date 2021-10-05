@@ -10,7 +10,7 @@
 ### Talk with me, I am kinda awesome
 
 [<img align="left" alt="Mohammed Taysser | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mohammed Taysser | codeoen" width="30px" src="images/codepen.svg" />][codepen]
+[<img align="left" alt="Mohammed Taysser | codeoen" width="30px" src="images/codepen.png" />][codepen]
 
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="images/twitter.svg" />](https://twitter.com/Muhammedtaysser) -->
 
