@@ -1,7 +1,7 @@
 ## Hello World, I'm Mohammed  👋
 
 - ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently learning Django framework
+- 🌱 I’m currently learning Django framework & React.js
 - 👀 I’m interested in cyber security specially pen-testing
 - ⚡ Fun fact: i'm using linux :smiley:
 
@@ -13,7 +13,6 @@
 [<img align="left" alt="Mohammed Taysser | codeoen" width="30px" src="images/codepen.png" />][codepen]
 
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="images/twitter.svg" />](https://twitter.com/Muhammedtaysser) -->
-
 
 <!-- [website]: https://holistic-developer.com/ -->
 [linkedin]: https://linkedin.com/in/mohammed-taysser
