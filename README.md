@@ -1,7 +1,7 @@
 ## Hello World, I'm Mohammed  👋
 
 - ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently learning Django framework & React.js
+- 🌱 I’m currently learning React.js
 - 👀 I’m interested in cyber security specially pen-testing
 - ⚡ Fun fact: i'm using linux :smiley:
 
