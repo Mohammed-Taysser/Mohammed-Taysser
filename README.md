@@ -1,11 +1,11 @@
-## Hello World, I'm Mohammed  👋
+# Hello World, I'm Mohammed  👋
 
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning `React.js`
 - 👀 I’m interested in cyber security specially `pen-testing`
 - ⚡ Fun fact: i'm using `linux` :smiley:
 
-### Talk with me, I am kinda awesome
+## Talk with me, I am kinda awesome
 
 [![codepen](https://img.shields.io/badge/-Codepen-05122A?style=for-the-badge&logo=codepen)][codepen]&nbsp;
 [![linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=for-the-badge&logo=linkedin)][linkedin]
@@ -15,7 +15,7 @@
 [telegram]: t.me/mohammedTaysser
 [codepen]: https://codepen.io/mohmmedtaysser/
 
-### Languages and Tools
+## Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)
 ![css](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)
