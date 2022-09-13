@@ -7,7 +7,7 @@
 - 💡 Have a Very good background in web layout and principles.
 - 📚 With Bachelor's degree in computer science, Graduate From Faculty of science, Al Azhar university in Cairo
 - ⚡ Fun fact: I'm Using `linux` 😉
-- Looking For More Details About Me Take A Look At My [Résumé]([Mohammed-Taysser-Lotfy.pdf](https://drive.google.com/file/d/1p6dy_uU1lv6ymVqFgHs03m8aDopRvDHQ/view?usp=sharing))
+- Looking For More Details About Me Take A Look At My [Résumé](https://drive.google.com/file/d/1p6dy_uU1lv6ymVqFgHs03m8aDopRvDHQ/view?usp=sharing)
 - I'm open to feedback and suggestions!
 
 ## Talk with me, I am kinda awesome
