@@ -27,17 +27,20 @@
 ### Frontend Technology
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)
 ![pug](https://img.shields.io/badge/-Pug%20Js-05122A?style=flat&logo=pug)&nbsp;
 ![gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=GULP)&nbsp;
 ![jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=JEST)&nbsp;
 ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![graphql](https://img.shields.io/badge/-graphql-05122A?style=flat&logo=graphql)&nbsp;
+![nextjs](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=next.js)&nbsp;
 
 ### Backend Technology
 
@@ -46,6 +49,8 @@
 ![postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 ![sql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![render](https://img.shields.io/badge/-render-05122A?style=flat&logo=render)&nbsp;
+![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
@@ -61,6 +66,8 @@
 ![yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
 ![gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp)&nbsp;
 ![firefox browser](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=firefoxbrowser)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### Operating System Used 💻
 
