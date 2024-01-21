@@ -1,8 +1,8 @@
-# Hello World, I'm Mohammed  👋
+# Hello World, I'm Mohammed 👋
 
-- ✍️ You Can Find My Projects Here [portfolio]
-- 🌱 I’M Currently Learning `React.js`
-- 👀 I’m interested in cyber security specially `pen-testing`
+- ✍️ You Can Find My Projects Here [portfolio](https://mohammed-taysser.github.io/portfolio/)
+- 🌱 I'M Currently Learning `Next.js`
+- 👀 I'm interested in cyber security specially `pen-testing`
 - 💡 I'm An Software Engineer With Good Experience In Writing Secure And Clean Code.
 - 💡 Have a Very good background in web layout and principles.
 - 📚 With Bachelor's degree in computer science, Graduate From Faculty of science, Al Azhar university in Cairo
@@ -12,15 +12,9 @@
 
 ## Talk with me, I am kinda awesome
 
-[![codepen](https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen)][codepen]&nbsp;
-[![linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)][linkedin]&nbsp;
-[![gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)][gmail]
-
-[linkedin]: https://linkedin.com/in/mohammed-taysser
-[portfolio]: https://mohammed-taysser.github.io/portfolio/
-[telegram]: t.me/mohammedTaysser
-[codepen]: https://codepen.io/mohmmedtaysser/
-[gmail]: mohamedtaysser983@gmail.com
+[![codepen](https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen)](https://codepen.io/mohmmedtaysser/)&nbsp;
+[![linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/mohammed-taysser)&nbsp;
+[![gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mohamedtaysser983@gmail.com)
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -44,18 +38,12 @@
 
 ### Backend Technology
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
-![postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
-![sql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
-![heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![render](https://img.shields.io/badge/-render-05122A?style=flat&logo=render)&nbsp;
-![vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
 ![jsonwebtokens](https://img.shields.io/badge/-Jsonwebtokens-05122A?style=flat&logo=jsonwebtokens)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
+![postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 
 ### Software Development Tools 🧰
 
