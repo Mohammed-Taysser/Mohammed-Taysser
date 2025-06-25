@@ -1,14 +1,15 @@
 # Hello World, I'm Mohammed 👋
 
-- ✍️ You Can Find My Projects Here [portfolio](https://mohammed-taysser.github.io/portfolio/)
-- 🌱 I'M Currently Learning `Next.js`
+- ✍️ You can find my projects here [portfolio](https://mohammed-taysser.github.io/portfolio/)
+- 🌱 I'm currently learning `Node.js` & `Prisma`
 - 👀 I'm interested in cyber security specially `pen-testing`
-- 💡 I'm An Software Engineer With Good Experience In Writing Secure And Clean Code.
-- 💡 Have a Very good background in web layout and principles.
-- 📚 With Bachelor's degree in computer science, Graduate From Faculty of science, Al Azhar university in Cairo
-- ⚡ Fun fact: I'm Using `linux` 😉
-- Looking For More Details About Me Take A Look At My [Résumé](https://drive.google.com/file/d/1p6dy_uU1lv6ymVqFgHs03m8aDopRvDHQ/view?usp=sharing)
+- 💡 I'm a software engineer with good experience in writing secure and clean code.
+- 💡 I have a very good background in web layout and design principles.
+- 📚 Bachelor’s degree in Computer Science — Faculty of Science, Al-Azhar University, Cairo.
+- ⚡ Fun fact: i'm using `linux` 😉
+- Looking for more details about me take a look at my [Résumé](https://drive.google.com/file/d/1p6dy_uU1lv6ymVqFgHs03m8aDopRvDHQ/view?usp=sharing)
 - I'm open to feedback and suggestions!
+- 🚀 Goal: Contribute to exciting open-source projects and grow my backend expertise.
 
 ## Talk with me, I am kinda awesome
 
@@ -29,7 +30,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=63D7)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)
 ![pug](https://img.shields.io/badge/-Pug%20Js-05122A?style=flat&logo=pug)&nbsp;
-![gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=GULP)&nbsp;
 ![jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=JEST)&nbsp;
 ![React](https://img.shields.io/badge/-React%20Js-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
@@ -40,6 +40,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
 ![jsonwebtokens](https://img.shields.io/badge/-Jsonwebtokens-05122A?style=flat&logo=jsonwebtokens)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
@@ -49,7 +50,7 @@
 
 ![postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown)&nbsp;
-![VS Code](https://img.shields.io/badge/-Vscode-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![VS Code](https://img.shields.io/badge/-Vscode-05122A?style=flat&logo=visualstudiocode)&nbsp;
 ![npm](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=npm)&nbsp;
 ![yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
 ![gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp)&nbsp;
